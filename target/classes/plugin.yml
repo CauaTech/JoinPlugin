@@ -1,0 +1,3 @@
+name: JoinPlugin
+version: '1.0'
+main: com.br.joinplugin.Main

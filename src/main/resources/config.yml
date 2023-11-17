@@ -1,0 +1,17 @@
+Config:
+  ServerName: "&l&fServidor&c&lTeste"
+
+JoinMensagem:
+  Global: false
+  Private: true
+  Active: true
+  Mensagem: "&f[&a+&f] &aEntrou {Player}"
+  Title:
+    Active: true
+    Lines:
+      One: "{ServerName}"
+      Two: "&eBem-vindo {Player} ao servidor {ServerName} "
+
+QuitMensagem:
+  Active: true
+  Mensagem: "&f[&c-&f] &cSaiu {Player}"
