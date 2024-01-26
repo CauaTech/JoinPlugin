@@ -1,2 +1,3 @@
-# JoinPlugin
-Plugin simples de mensagem de entrada e saida
+# Join Plugin
+
+O Plugin é simples mais logo vou fazer atualização para ele
